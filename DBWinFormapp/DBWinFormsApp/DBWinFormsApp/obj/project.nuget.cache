@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Qn+utHFSM3bNtin65KNoFTENPdU05jCmBhkw3i2RD2y7G3eABlMZwcylXzHxmvilhKxijVWcFjI6dyCtr4dpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Documents\\DBWinFormapp\\DBWinFormsApp\\DBWinFormsApp\\DBWinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
